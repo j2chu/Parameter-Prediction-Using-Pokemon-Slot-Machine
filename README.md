@@ -1,4 +1,3 @@
-# Mudamaid Research Project
-Discussing and analyzing probability and statistics in the context of a Discord bot, Mudamaid. Analysis done by a Data Science student.
+# Parameter Prediction Using Pokemon Slot Machine
 
-Disclaimer: There may be mistakes or confusions in code, math, etc. Please feel free to reach out if there are any mistakes or confusions.
+This discussing and code aims to analyze the probability and statistics of Bayesian parameter prediction, in the context of a Pokemon Slots machine.
